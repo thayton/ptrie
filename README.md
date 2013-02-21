@@ -13,8 +13,8 @@ The key comparison code is based off of Danny Dulai's Patricia trie implementati
 
 References:
 
-Algorithms in C by Robert Sedgewick
-DJB Critbit http://cr.yp.to/critbit.html
-TCP/IP Illustrated Volume 2 by Richard Stevens & Gary Wright
+* Algorithms in C by Robert Sedgewick
+* DJB Critbit http://cr.yp.to/critbit.html
+* TCP/IP Illustrated Volume 2 by Richard Stevens & Gary Wright
 
 
